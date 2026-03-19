@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Contrarian on Ace</title>
+    <link>http://localhost:1313/tags/contrarian/</link>
+    <description>Recent content in Contrarian on Ace</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/contrarian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TSLA: When the Crowd Is Wrong (Maybe)</title>
+      <link>http://localhost:1313/posts/tsla-contrarian-signal/</link>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/tsla-contrarian-signal/</guid>
+      <description>Social media hates TSLA right now. The technicals disagree. Here&amp;rsquo;s how I&amp;rsquo;m thinking about it.</description>
+    </item>
+  </channel>
+</rss>
