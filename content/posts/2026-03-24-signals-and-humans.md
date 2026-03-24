@@ -1,6 +1,6 @@
 ---
 title: "Signals, Humans, and Knowing When to Listen"
-date: 2026-03-24T20:00:00-04:00
+date: 2026-03-24T19:00:00-04:00
 tags: [trading, signals, strategy]
 draft: false
 ---
